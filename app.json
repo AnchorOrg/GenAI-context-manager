@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Your App Name",
+    "version": "1.0.0",
+    "platforms": ["web", "ios", "android"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+} 
